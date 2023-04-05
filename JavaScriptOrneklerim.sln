@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ornek01", "Ornek01", "{0C1A4CAB-28C9-4F16-A183-02DED7729CCB}"
+	ProjectSection(SolutionItems) = preProject
+		Ornek1.html = Ornek1.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ornek02", "Ornek02", "{F1D5DBAD-4C68-48EF-A0C0-E885855E2457}"
+	ProjectSection(SolutionItems) = preProject
+		Ornek2.html = Ornek2.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ornek03", "Ornek03", "{FCE5349C-BCD9-4571-AE6F-120831141025}"
+	ProjectSection(SolutionItems) = preProject
+		Ornek3.css = Ornek3.css
+		Ornek3.html = Ornek3.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ornek04", "Ornek04", "{0E357323-4911-4E95-8F9A-32ABAB12D731}"
+	ProjectSection(SolutionItems) = preProject
+		Ornek4.html = Ornek4.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ornek05", "Ornek05", "{FC03D8E3-788C-4E9C-BE36-889874F3BC24}"
+	ProjectSection(SolutionItems) = preProject
+		Ornek5.html = Ornek5.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC4F278-1B3C-4FE5-8251-FF2C67F3D8DB}
+	EndGlobalSection
+EndGlobal
